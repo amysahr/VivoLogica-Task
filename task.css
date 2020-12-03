@@ -1,0 +1,14 @@
+body{
+    background-color: cornflowerblue;
+}
+.box{
+    font-size: 30px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+p{
+    color: blue;
+    padding-left: 40%;
+}
